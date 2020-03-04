@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/apkmanagmentfront/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/apkmanagmentfront/static/js/main.3781390b.chunk.js",
+    "main.js.map": "/apkmanagmentfront/static/js/main.3781390b.chunk.js.map",
+    "runtime-main.js": "/apkmanagmentfront/static/js/runtime-main.a7f5bcfe.js",
+    "runtime-main.js.map": "/apkmanagmentfront/static/js/runtime-main.a7f5bcfe.js.map",
+    "static/js/2.fb5f3459.chunk.js": "/apkmanagmentfront/static/js/2.fb5f3459.chunk.js",
+    "static/js/2.fb5f3459.chunk.js.map": "/apkmanagmentfront/static/js/2.fb5f3459.chunk.js.map",
+    "index.html": "/apkmanagmentfront/index.html",
+    "precache-manifest.5495a53840ba19a347bf212f63c68171.js": "/apkmanagmentfront/precache-manifest.5495a53840ba19a347bf212f63c68171.js",
+    "service-worker.js": "/apkmanagmentfront/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/apkmanagmentfront/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.fb5f3459.chunk.js.LICENSE.txt": "/apkmanagmentfront/static/js/2.fb5f3459.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7f5bcfe.js",
+    "static/js/2.fb5f3459.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.3781390b.chunk.js"
+  ]
+}
