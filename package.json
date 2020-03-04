@@ -16,7 +16,7 @@
     "react-loader-spinner": "^3.1.5",
     "react-scripts": "3.4.0"
   },
-  "homepage": "http://rmodi234.github.io/apkmanagmentfront",
+  "homepage": "http://rmodi234.github.io/apkmanagmentfront/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
